@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+pygame_movement/__init__.py
+pygame_movement.egg-info/PKG-INFO
+pygame_movement.egg-info/SOURCES.txt
+pygame_movement.egg-info/dependency_links.txt
+pygame_movement.egg-info/requires.txt
+pygame_movement.egg-info/top_level.txt
